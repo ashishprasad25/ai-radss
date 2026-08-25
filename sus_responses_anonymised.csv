@@ -1,0 +1,11 @@
+participant_id,familiarity,Q1_complex,Q2_easy,Q3_need_support,Q4_integrated,Q5_learn_quickly,Q6_confident,Q7_cumbersome,Q8_inconsistent,Q9_learn_lot
+P01,regularly,2,4,2,3,3,4,3,3,2
+P02,occasionally,1,5,3,4,4,4,1,1,2
+P03,occasionally,2,2,1,3,4,5,1,2,2
+P04,regularly,3,2,5,4,3,3,3,4,4
+P05,rarely,1,5,1,3,5,4,2,4,1
+P06,occasionally,1,5,1,2,5,3,2,3,1
+P07,regularly,2,4,1,3,5,3,2,3,2
+P08,regularly,2,4,2,2,4,3,3,4,2
+P09,regularly,2,4,2,3,4,2,2,3,2
+P10,regularly,3,3,2,4,4,5,3,2,3
